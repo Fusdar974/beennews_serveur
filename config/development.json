@@ -1,0 +1,11 @@
+{
+  "mail": {
+    "host": "SMTP-NAT.dr-res.intradef.gouv.fr",
+    "port": 25,
+    "address": "soum.no-reply@intradef.gouv.fr",
+    "from": "SOUM"
+  },
+  "chargement": {
+    "donnees": false
+  }
+}
