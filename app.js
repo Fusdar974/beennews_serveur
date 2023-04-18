@@ -16,6 +16,7 @@ const cafes = require('./controllers/cafes');
 const pdf = require('./controllers/pdf');
 const parametre = require('./controllers/parametre');
 const pots = require('./controllers/pots');
+const frigo = require('./controllers/frigo');
 const authPDF = require('./middlewares/authPDF');
 const chargementDonnees = require('./helpers/helpers');
 const config = require(`./config/${process.env.NODE_ENV}.json`);
@@ -54,6 +55,7 @@ app.use('/v1/planning', auth, planning);
 app.use('/v1/parametre', auth, parametre);
 app.use('/v1/pdf', authPDF, pdf);
 app.use('/v1/pots', auth, pots);
+app.use('/v1/frigo', auth, frigo);
 
 //Router react
 app.get('*', (req, res) => { res.sendFile(path.join(__dirname + '/views/build/index.html')); });
