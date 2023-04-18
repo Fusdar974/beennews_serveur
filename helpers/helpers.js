@@ -77,26 +77,32 @@ class Helpers {
               nom: "Boissons",
               proposablePot: true,
               proposableSoum: true,
+              proposableFrigo: true,
             }, {
               nom: "Glaces",
               proposablePot: false,
               proposableSoum: true,
+              proposableFrigo: true,
             }, {
               nom: "Friandises",
               proposablePot: false,
               proposableSoum: true,
+              proposableFrigo: false,
             }, {
               nom: "Cartes",
               proposablePot: false,
               proposableSoum: true,
+              proposableFrigo: false,
             }, {
               nom: "PDJ",
               proposablePot: false,
               proposableSoum: true,
+              proposableFrigo: false,
             }, {
               nom: "Bières",
               proposablePot: true,
               proposableSoum: false,
+              proposableFrigo: true,
             },
           ];
 
