@@ -1,6 +1,6 @@
 Une fois le git clone fini, se positionner dans le dossier du projet pour faire la commande:
 
-npm install
+```npm install```
 
 Créer une config : 
 npm start 
