@@ -29,21 +29,37 @@ router.delete('/:id', (req, res) => {
 })
 
 router.post('/', (req, res) => {
-    bdd.typeproduit.find({}).sort({ nom: 1 }).exec(function (err, docs) {
-        const tabPromise = [];
-        docs.forEach(element => {
-            tabPromise.push(new Promise(resolve => {
-                bdd.produit.count({ type: element._id }, (err, count) => {
-                    element.nombreProduits = count;
-                    resolve();
-                })
-            }));
-        });
-        Promise.all(tabPromise).then(() => {
-            res.json(docs);
-        });
+    const {_id, nom, proposablePot, proposableSoum, ...otherParams} = req.body
+    const filter = {_id, nom, proposablePot, proposableSoum}
 
-    });
+    const errors = Object
+        .keys(otherParams)
+        .map(paramInError => `Le param ${paramInError} n'existe pas dans l'objet typeproduit.`)
+
+    Object
+        .entries(filter)
+        .filter(param => typeof param[1]==="undefined")
+        .forEach(paramToDelete => Reflect.deleteProperty(filter, paramToDelete[0]))
+
+    if(errors.length >0 ) {
+        res.status(500).send({ error: errors.join(' / ')})
+    }else {
+        bdd.typeproduit.find(filter).sort({ nom: 1 }).exec(function (err, docs) {
+            const tabPromise = [];
+            docs.forEach(element => {
+                tabPromise.push(new Promise(resolve => {
+                    bdd.produit.count({ type: element._id }, (err, count) => {
+                        element.nombreProduits = count;
+                        resolve();
+                    })
+                }));
+            });
+            Promise.all(tabPromise).then(() => {
+                res.json(docs);
+            });
+
+        });
+    }
 })
 
 module.exports = router;
