@@ -281,6 +281,7 @@
 {"torrefacteur":"8bquHm8h0s2XWLJ4","cafe":"hNnR6aeGWnrHGYEh","nombre":9,"prix":2.25,"dateSaisie":{"$$date":1603709879002},"_id":"mpF8wQe4hChoGpxP"}
 {"torrefacteur":"jnN5cDdMBN7lYh6o","cafe":"egAuVgRytajUolVr","nombre":4,"prix":0.7096774193548387,"dateSaisie":{"$$date":1603709951426},"_id":"ms2nykObmhL9imcc"}
 {"torrefacteur":"JraVKHRFNAM9WlCP","cafe":"8Y25eFhCYb6J6jGQ","nombre":3,"prix":0.387,"dateSaisie":{"$$date":1603720140604},"_id":"nMEsCtXGEyFHscKu"}
+{"torrefacteur":"DSmOY30KDcw8e5ja","cafe":"8y2u565k3TBno9U8","nombre":8,"prix":0.006504065040650407,"dateSaisie":{"$$date":1604587566220},"_id":"nmQugliB7a3Z3Uk6"}
 {"torrefacteur":"Vy8PXJyzX6n75tWK","cafe":"YBzmAKsgGBB30FFO","nombre":3,"prix":0.5275000000000001,"dateSaisie":{"$$date":1603715183833},"_id":"npHAVvwQmeCFFXBP"}
 {"torrefacteur":"xDbXey2eG4fiLJN2","cafe":"By1u56CHuoxVR2WN","nombre":4,"prix":0.63,"dateSaisie":{"$$date":1603894591314},"_id":"nrRkEVaRdzVJXTFG"}
 {"torrefacteur":"DSmOY30KDcw8e5ja","cafe":"ZLxj0zgp4kWScd24","nombre":4,"prix":0.9949999999999999,"dateSaisie":{"$$date":1603717093884},"_id":"nt3yyKcdueeEyDZv"}
@@ -296,6 +297,7 @@
 {"torrefacteur":"xDbXey2eG4fiLJN2","cafe":"b6MxYrlHAlPZiTBn","nombre":10,"prix":1.7388349514563106,"dateSaisie":{"$$date":1603707763243},"_id":"pGckUlGs5qrlBUEB"}
 {"torrefacteur":"DSmOY30KDcw8e5ja","cafe":"YWiSOZPPhvOVuEbS","nombre":1,"prix":0.14318181818181816,"dateSaisie":{"$$date":1603716998745},"_id":"pcKEN9yv13H6hOYS"}
 {"torrefacteur":"wjt1sH4K1d9L1WTq","cafe":"ZpDIZqFdIXQPTYgu","nombre":4,"prix":0.49615384615384617,"dateSaisie":{"$$date":1603716812982},"_id":"phZ4BfcczIvuicQl"}
+{"torrefacteur":"JraVKHRFNAM9WlCP","cafe":"8y2u565k3TBno9U8","nombre":2,"prix":0.0016260162601626018,"dateSaisie":{"$$date":1604587566220},"_id":"q2lDHGe2Wn91e3m9"}
 {"torrefacteur":"QCNmQ7tVItBtsEqw","cafe":"PTbiLGnS78dflAHs","nombre":5,"prix":1.25,"dateSaisie":{"$$date":1603716465018},"_id":"q9S2lB4BYennWqdj"}
 {"torrefacteur":"DSmOY30KDcw8e5ja","cafe":"YfKBghFtgvtUjzq5","nombre":6,"prix":0.8628865979381443,"dateSaisie":{"$$date":1603709412471},"_id":"qCavCYwVanz4Q6Q6"}
 {"torrefacteur":"Vy8PXJyzX6n75tWK","cafe":"ug1jNm5SkxWD7jbW","nombre":4,"prix":0.6083333333333334,"dateSaisie":{"$$date":1603721305543},"_id":"qGJAFNgv8wa5kM7x"}
@@ -352,5 +354,3 @@
 {"torrefacteur":"8bquHm8h0s2XWLJ4","cafe":"ZLxj0zgp4kWScd24","nombre":3,"prix":0.74625,"dateSaisie":{"$$date":1603717093884},"_id":"zKCy6J4QeRsGSBFK"}
 {"torrefacteur":"Vy8PXJyzX6n75tWK","cafe":"hNnR6aeGWnrHGYEh","nombre":4,"prix":1,"dateSaisie":{"$$date":1603709879002},"_id":"zcKQ6WmXcmhHAjbp"}
 {"torrefacteur":"DSmOY30KDcw8e5ja","cafe":"ilESQDHeOPFZqVDs","nombre":1,"prix":0.16125,"dateSaisie":{"$$date":1603721065746},"_id":"zqrT5KxcQdFVcVsZ"}
-{"torrefacteur":"DSmOY30KDcw8e5ja","cafe":"8y2u565k3TBno9U8","nombre":8,"prix":0.006504065040650407,"dateSaisie":{"$$date":1604587566220},"_id":"nmQugliB7a3Z3Uk6"}
-{"torrefacteur":"JraVKHRFNAM9WlCP","cafe":"8y2u565k3TBno9U8","nombre":2,"prix":0.0016260162601626018,"dateSaisie":{"$$date":1604587566220},"_id":"q2lDHGe2Wn91e3m9"}

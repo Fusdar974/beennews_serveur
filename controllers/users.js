@@ -40,7 +40,7 @@ router.get('/historique/:type/:id', (req, res) => {
  */
 router.put('/:id', (req, res) => {
   bdd.utilisateur.update({ _id: req.params.id }, { $set: req.body.user }, {}, function (err, doc) {
-
+  console.log(req)
     if (req.body.user.profils.find(item => item.nom === 'Torréfacteur')) {
       console.log('Il consomme du café');
     } else {
