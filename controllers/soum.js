@@ -38,13 +38,13 @@ router.post('/panier', (req, res) => {
 
     panier.articles.forEach(item => {
       tabPromise.push(new Promise(resolve => {
-        bdd.produit.findOne({ _id: item.produit }, (err, produit) => {
+        bdd.produit.findOne({ _id: item._id }, (err, produit) => {
           if (produit.credit > 0) {
             nouveauSoldeCompte += produit.credit * item.quantite;
             nouveauCredit += produit.credit * item.quantite;
           }
           const newNombre = produit.nombre - item.quantite;
-          bdd.produit.update({ _id: item.produit }, { $set: { nombre: newNombre, effacable: false } }, {}, (err, result) => {
+          bdd.produit.update({ _id: item._id }, { $set: { nombre: newNombre, effacable: false } }, {}, (err, result) => {
             resolve();
           })
         });
