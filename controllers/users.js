@@ -7,7 +7,7 @@ const droits = require('./droits');
 const profils = require('./profils');
 const Helpers = require('../helpers/helpers');
 const Mail = require('../helpers/envoyerMail');
-const { offrir } = require('./metier');
+const { offrir, recharger} = require('./metier');
 
 /**
  * Récupération d'un utilisateur
@@ -154,6 +154,21 @@ router.post('/passwordDefault/:id', (req, res) => {
   });
 })
 
+/**
+ * Recharger les points BN d'un utilisateur
+ */
+router.post('/recharger/:id', (req, res) => {
+
+  const id = req.params.id;
+  const pointRecharge = req.body.pointRecharge;
+  const paiementEspece = req.body.paiementEspece;
+  const paiementVirement = req.body.paiementCarte;
+  const barman = req.user;
+
+  recharger(id, paiementEspece, paiementVirement, pointRecharge, barman).then(userFind => {
+    res.json({ data: 'ok' });
+  });
+});
 
 
 
@@ -169,7 +184,6 @@ router.post('/offrir/:id', (req, res) => {
   const barman = req.user;
 
   offrir(id, barman, pointOffert, commentaires).then(userFind => {
-    console.log(`Ajout de ${pointOffert} à ${userFind.nom + " " + userFind.prenom}`);
     res.json({ data: 'ok' });
   });
 });

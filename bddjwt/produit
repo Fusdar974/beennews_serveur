@@ -10,7 +10,6 @@
 {"nom":"Coca Cola Cherry","prix":4,"prixEuros":0,"credit":0,"effacable":false,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/cocaColaCherry.png","_id":"6ZRuGNcqaqj3ibMO","archive":false}
 {"nom":"Desperados red","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/desperadosRed.png","_id":"AA1dfN2LYLgWkxrK","archive":true}
 {"nom":"Toblerone","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/toblerone.png","_id":"AWkFEQO492s6SUBh","archive":true}
-{"nom":"PogStalin","prix":4,"type":"UPXNDgSyEqMH7hpi","prixEuros":0,"nombre":0,"image":"image/2023_05_17_16_31_06_992","effacable":true,"credit":0,"archive":false,"_id":"BFD96I9fL2XkcEMG"}
 {"nom":"Perrier Citron","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/perrierCitron.png","_id":"BFzGNIcrJFKGORIB","archive":true}
 {"nom":"Snickers Glacé","prix":6,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"PPCK4Tob6riCWPJW","image":"image/snickersGlace.png","_id":"BXHWfMPIo0ArAZC7","archive":true}
 {"nom":"M&Ms Bleu","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/mmsbleu.png","_id":"Cgwm6BK0AAjyRumS","archive":true}
@@ -93,7 +92,7 @@
 {"nom":"Monster","prix":6,"prixEuros":0,"credit":0,"effacable":false,"nombre":2,"type":"2db7W7cow5uiP3SO","image":"image/monster.png","_id":"ndSIEbvWLNuDDcy2","archive":false}
 {"nom":"Heineken","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/heineken.png","_id":"nud7aeeUtTIv1NFB","archive":true}
 {"nom":"Arizona Punch","prix":6,"prixEuros":0,"credit":0,"effacable":false,"nombre":6,"type":"2db7W7cow5uiP3SO","image":"image/arizonaPunch.png","_id":"oDP9O4LQy9ll0SJI","archive":false}
-{"nom":"Balisto Vert","prix":3,"prixEuros":0,"type":"c7BDSTHZ2NKjbYLC","nombre":1,"image":"image/2023_05_16_12_26_55_222","effacable":false,"_id":"oUuncL5oy23Ssd0R","archive":false}
+{"nom":"Balisto Vert","prix":3,"prixEuros":0,"type":"c7BDSTHZ2NKjbYLC","nombre":1,"image":"image/2023_05_30_14_26_31_176","effacable":false,"_id":"oUuncL5oy23Ssd0R","archive":false}
 {"nom":"Magnum blanc","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"PPCK4Tob6riCWPJW","image":"image/magnumBlanc.png","_id":"plI952YGpJtROt2P","archive":true}
 {"nom":"Oréo","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/oreo.png","_id":"pw71pEcV9bKAFsox","archive":true}
 {"nom":"Bière 1664","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/1664.png","_id":"q7w9ncOAkaMcQaVf","archive":true}
@@ -114,7 +113,6 @@
 {"nom":"Desperados","prix":0,"prixEuros":1.5,"credit":0,"effacable":false,"nombre":28,"type":"O46oZtngnR951h3J","image":"image/desperados.png","_id":"ykW0nAtgV7tcbUKD","archive":false}
 {"nom":"FuzeTea Pêche","prix":4,"prixEuros":0,"type":"2db7W7cow5uiP3SO","nombre":0,"image":"image/2020_08_21_10_29_14_964","effacable":false,"_id":"yl1RMrum0jaeHRdd","archive":false}
 {"nom":"Lion","prix":2,"prixEuros":0,"credit":0,"effacable":false,"nombre":7,"type":"c7BDSTHZ2NKjbYLC","image":"image/lion.png","_id":"ynyMOS4igl8KgJfR","archive":false}
-{"nom":"Victoria","prix":30000000000000,"type":"UPXNDgSyEqMH7hpi","prixEuros":"0","nombre":"1","image":"image/2023_05_12_11_42_35_309","effacable":false,"credit":0,"archive":false,"_id":"zW7PfzsSj6UOkW7N"}
 {"nom":"Pelforth brune","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/pelforthBrune.png","_id":"zWIeQAvNz8Es3kLg","archive":true}
 {"nom":"Balisto Jaune","prix":2,"prixEuros":0,"credit":0,"effacable":false,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/balisto.png","_id":"zvEalWlcADv67pEg","archive":false}
 {"nom":"Grimbergen rouge","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/grimbergenRouge.png","_id":"zxtjov9T9g4JMmY1","archive":true}
