@@ -25,10 +25,20 @@ router.get('/:id', (req, res) => {
 /**
  * Historique d'un utilisateur
  */
-router.get('/historique/:type/:id', (req, res) => {
-  const page = parseInt(req.query.page) || 1;
-  const nombre = req.query.nombre || 10;
+router.post('/historique/:type/:id', (req, res) => {
+  let page = parseInt(req.body.page) || 1;
+  let nombre = req.body.nombre || 10;
   bdd.historique.count({ client: req.params.id, type: req.params.type }, function (err, count) {
+      const pageMax = Math.ceil(count / nombre);
+      if (page > pageMax) {
+        page = pageMax;
+      }
+
+      try {
+        nombre = parseInt(nombre);
+      } catch(err) {
+        nombre = count;
+      }
     bdd.historique.find({ client: req.params.id, type: req.params.type }).sort({ date: -1 }).skip((page - 1) * nombre).limit(nombre).exec((err, histo) => {
       res.json({ histo, count, page, nombre });
     });
@@ -218,13 +228,12 @@ router.post('/', (req, res) => {
       page = pageMax;
     }
 
-    
+
     try {
       nombre = parseInt(nombre);
     } catch(err) {
       nombre = count;
     }
-
 
     bdd.utilisateur.find(param).sort({ nom: 1 }).skip((page - 1) * nombre).limit(nombre).exec(function (err, docs) {
       res.json({ page, nombre, total: count, documents: docs });
