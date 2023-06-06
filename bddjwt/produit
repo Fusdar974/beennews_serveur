@@ -1,5 +1,4 @@
 {"nom":"Chimay rouge","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/chimayRouge.png","_id":"0GcI1FMS7Qylspyz","archive":true}
-{"nom":"Carte 5€","prix":0,"prixEuros":5,"type":"mX6vkJOaVzKRhfWO","nombre":46,"image":"image/NoLogo.png","effacable":false,"_id":"0HDf5GyFKtbYClbn","credit":21,"archive":false}
 {"nom":"Jus de fruit poire","prix":3,"prixEuros":0,"credit":0,"effacable":false,"nombre":1,"type":"2db7W7cow5uiP3SO","image":"image/2020_09_02_14_40_23_490","_id":"0p6QnS7vCsytd0AG","archive":false}
 {"nom":"Côte d'or barre","prix":3,"prixEuros":0,"type":"c7BDSTHZ2NKjbYLC","nombre":4,"image":"image/2020_09_02_14_42_09_976","effacable":false,"archive":false,"_id":"1liSinNs7esr39Dv"}
 {"nom":"Magnum amande","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":2,"type":"PPCK4Tob6riCWPJW","image":"image/magnumAmande.png","_id":"1vEmCxjiqL5JBQ5W","archive":false}
@@ -15,7 +14,6 @@
 {"nom":"M&Ms Bleu","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/mmsbleu.png","_id":"Cgwm6BK0AAjyRumS","archive":true}
 {"nom":"Jus de Fruit Goyave","prix":3,"prixEuros":0,"type":"2db7W7cow5uiP3SO","nombre":0,"image":"image/2020_09_02_14_37_17_629","effacable":false,"archive":false,"_id":"DNJVMtvuqHAD3u3x"}
 {"nom":"Pepsi","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/pepsi.png","_id":"E4O4yYm5tvL72LKK","archive":true}
-{"nom":"Carte 10€","prix":0,"prixEuros":10,"credit":42,"effacable":false,"nombre":999999999990,"type":"mX6vkJOaVzKRhfWO","image":"image/NoLogo.png","_id":"E4P89Yd7kEP4Iuu2","archive":false}
 {"nom":"Tropico","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/tropico.png","_id":"EK7Gt2nBtONKd4g7","archive":true}
 {"nom":"Coca Cola Zéro","prix":4,"prixEuros":0,"credit":0,"effacable":false,"nombre":11,"type":"2db7W7cow5uiP3SO","image":"image/cocaColaZero.png","_id":"EPkqYdGnWeEzc7zD","archive":false}
 {"nom":"Jus de fruit abricot","prix":3,"prixEuros":0,"credit":0,"effacable":false,"nombre":7,"type":"2db7W7cow5uiP3SO","image":"image/2020_09_02_14_38_14_202","_id":"ET6oCT0av3ihinrK","archive":false}
@@ -43,7 +41,6 @@
 {"nom":"Leffe radieuse","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/leffeRadieuse.png","_id":"NJA5gMRGarMZq8Cf","archive":true}
 {"nom":"Litonic Ice Tea","prix":4,"prixEuros":0,"credit":0,"effacable":false,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/liptonIceTea.png","_id":"NRrLKxZMvfCknBIw","archive":true}
 {"nom":"Nougatti","prix":2,"prixEuros":0,"type":"c7BDSTHZ2NKjbYLC","nombre":0,"image":"image/2020_08_25_11_21_10_238","effacable":false,"_id":"OYAPWFehl3aNXAUL","archive":false}
-{"nom":"Carte 1€","prix":0,"prixEuros":1,"type":"mX6vkJOaVzKRhfWO","nombre":99999980,"image":"image/NoLogo.png","effacable":false,"archive":false,"_id":"Oaf9AmsZA5o6PUCY","credit":4}
 {"nom":"Sundy","prix":2,"prixEuros":0,"credit":0,"effacable":false,"nombre":11,"type":"c7BDSTHZ2NKjbYLC","image":"image/sundy.png","_id":"P6SyLSDU3MxospWx","archive":false}
 {"nom":"Mars","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/mars.png","_id":"PMuIyeBpmY53V6pq","archive":true}
 {"nom":"Oasis Tropical","prix":4,"prixEuros":0,"credit":0,"effacable":false,"nombre":18,"type":"2db7W7cow5uiP3SO","image":"image/oasis.png","_id":"Po8fviilNDS5M6kD","archive":false}
@@ -78,7 +75,6 @@
 {"nom":"Perrier Citron Vert","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/perrierCitronVert.png","_id":"iVOWfYEQ2N0AVTf9","archive":true}
 {"nom":"Pepsi Max","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/pepsiMax.png","_id":"jRlHluTGpABBxmH3","archive":true}
 {"nom":"Maltesers","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/maltesers.png","_id":"jbdbydtl7PQX5lYB","archive":true}
-{"nom":"Carte 0.25€","prix":0,"prixEuros":0.25,"type":"mX6vkJOaVzKRhfWO","nombre":9999999982,"image":"image/NoLogo.png","effacable":false,"archive":false,"_id":"jnYwUQ7VNa4NmjPS","credit":1}
 {"nom":"Hoogarden","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/hoogardenjpg.png","_id":"jrPhpOb5TjdoWnsI","archive":true}
 {"nom":"Croissant + Jus","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":50,"type":"vumZUrmj0jCzfU9a","image":"image/croissant jusorange.png","_id":"k2vtkUyScw0V8xnV","archive":false}
 {"nom":"Rochefort 6","prix":0,"prixEuros":1.5,"credit":0,"effacable":true,"nombre":0,"type":"O46oZtngnR951h3J","image":"image/rochefort6.png","_id":"kgyrHHywRXqWcqAd","archive":true}
