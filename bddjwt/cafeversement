@@ -1,37 +1,194 @@
+{"valeur":40,"date":{"$$date":1681284356493},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Dobby","_id":"0AzyixvdXIUTZ8ef"}
+{"valeur":30,"date":{"$$date":1673341980000},"torrefacteur":"33deNDrPRCu6k4N1","commentaire":"Virement vers CMSO","_id":"0krBZzJ5WP6EnFhr"}
+{"valeur":90,"date":{"$$date":1670941860000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"Virement Paylib vers CMSO","_id":"1NhYYxi9P4licAZY"}
+{"valeur":-35,"date":{"$$date":1660896150540},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Rectification bénéficiaire virement du 27/06/2022","_id":"1SiZJAfs77RORuc4"}
+{"valeur":40,"date":{"$$date":1683105300000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"Virement bancaire (CMSO)","_id":"1WoVpItOpQKXt6MH"}
+{"valeur":-50,"date":{"$$date":1599602400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement B2ODA","_id":"21xO8whApPURsVDu"}
+{"valeur":-60,"date":{"$$date":1583162820000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement YOURI","_id":"2WPsfut5Iznwn5Gk"}
+{"valeur":30,"date":{"$$date":1627887323819},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"virement du 02/08/2021","_id":"34M0VmrSaq7KYPeu"}
+{"valeur":-30,"date":{"$$date":1673342400000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - La Petite Dame","_id":"3AsQ8NpxtHU13Hrp"}
+{"valeur":-2.1,"date":{"$$date":1634288449734},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"achat brosse et tube de graisse","_id":"3BHlQxCkuEknWPpT"}
 {"valeur":10,"date":{"$$date":1596028680000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"virement du 29/07/2020","_id":"3g6qiSTPPQMwlDN8"}
+{"valeur":-2.1,"date":{"$$date":1634288373387},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"achat brosse et tube de graisse","_id":"3rbYLfgi7nY4kx6p"}
 {"valeur":-35,"date":{"$$date":1601558580000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"rachat quote-part machine GROSSFRITE","_id":"465d1zLXCbdpbyjI"}
+{"valeur":-40,"date":{"$$date":1593986400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"virement MACT3M","_id":"4BkaH3hazjoAC6jM"}
+{"valeur":35,"date":{"$$date":1616660935098},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"virement du 25/03","_id":"4YBqzDEubuIJycNj"}
 {"valeur":50,"date":{"$$date":1599657600000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"virement du 09/09/2020","_id":"4vAwE26xKoAof3Xd"}
+{"valeur":25,"date":{"$$date":1660896688759},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"Rectification de remboursement pour acheteur de café","_id":"51Thp4ExVf2jxKW6"}
+{"valeur":-80,"date":{"$$date":1663244940000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - TORTUE GÉNIALE","_id":"57Gn3y6mcAKQL0JO"}
+{"valeur":100,"date":{"$$date":1613084400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"erreur de saisie","_id":"5AvgPMyeFOlLYBu1"}
+{"valeur":40,"date":{"$$date":1613548800000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"virement du 17/02/2021","_id":"5FlKebMWATPm8gby"}
+{"valeur":-40,"date":{"$$date":1683105720000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement Tortue Géniale","_id":"5S4SsODtzaQj1Pba"}
+{"valeur":20,"date":{"$$date":1664954554524},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"Virement PayLib","_id":"5vBCRBWpyARliUbj"}
+{"valeur":-40,"date":{"$$date":1613516400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"virement MACT3M","_id":"5xAsN0JqA1KLvLli"}
+{"valeur":50,"date":{"$$date":1685949600000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"Virement bancaire (N26)","_id":"698PtFkjft2VKVjS"}
+{"valeur":-50,"date":{"$$date":1670337000000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - B2ODA","_id":"6aalybiRjoo19lwy"}
+{"valeur":-10,"date":{"$$date":1621952821003},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement B2ODA","_id":"6xhSrkp2VeD0Ta6k"}
+{"valeur":35,"date":{"$$date":1656317400000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Annule N26","_id":"71SKyeOCU5zBfkdU"}
+{"valeur":10,"date":{"$$date":1654607289132},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"test remboursement","_id":"76TfEhbNQvOpHzWR"}
+{"valeur":80,"date":{"$$date":1663244820000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"Remboursement (PAYLIB)","_id":"81Kxy0PnUKrASDwQ"}
+{"valeur":-2.1,"date":{"$$date":1634288471130},"torrefacteur":"33deNDrPRCu6k4N1","commentaire":"achat brosse et tube de graisse","_id":"8WPiHLJ3R6bcaz7L"}
+{"valeur":15,"date":{"$$date":1673428985175},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"Virement vers PAYLIB","_id":"8ajAfqUwLyoLfAZW"}
+{"valeur":50,"date":{"$$date":1664868060000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"Virement bancaire (CMSO)","_id":"9BnbjrzPTVLWJQGW"}
+{"valeur":-25,"date":{"$$date":1660896670263},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"Rectification destinataire","_id":"9SMHIuxeKDP2g2hV"}
+{"valeur":20,"date":{"$$date":1608110340000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"","_id":"AekKormQqE9oTQKt"}
+{"valeur":-25,"date":{"$$date":1660896730796},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Rectification virement du 21/07/2022 - DOBBY","_id":"Aw4VftQnfqmcOmC4"}
+{"valeur":-2.1,"date":{"$$date":1634288481863},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"achat brosse et tube de graisse","_id":"B8h6WvZcKCoqiynG"}
+{"valeur":-30,"date":{"$$date":1630447200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Le Gone","_id":"BQiO39MlMv5g2CQM"}
+{"valeur":60,"date":{"$$date":1643093351607},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"virement du 25/01/2022","_id":"Bvq8Tbu3NvxdFD2V"}
+{"valeur":90,"date":{"$$date":1630447200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement incapacité de saisie du virement le gone de 30 fais 4 fois","_id":"D2r4SMFxSdSa5Awx"}
+{"valeur":-60,"date":{"$$date":1620728280000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"virement 60€ du 11/05","_id":"D98Q1TP0MhByG8R4"}
+{"valeur":-30,"date":{"$$date":1678693604319},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - C'Hipster","_id":"DCiwPl3poGnaRFvQ"}
+{"valeur":-15,"date":{"$$date":1673429012636},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Dobby","_id":"DDoRbXbsKeoX5o2m"}
+{"valeur":-30,"date":{"$$date":1630447200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"virement le gone du 01/09/2021","_id":"DgktQqCfr8XgU9bw"}
 {"valeur":4.375,"date":{"$$date":1601559300000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"rachat quote-part machine GROSSFRITE","_id":"DmtKod2HDIgfo9zy"}
+{"valeur":-35,"date":{"$$date":1616660860701},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"","_id":"DoSww5OpDaqy1kKO"}
+{"valeur":-18,"date":{"$$date":1685954295930},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - MACT3M","_id":"E1w7DqQa7FhchYlG"}
+{"valeur":-100,"date":{"$$date":1599602400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"virement Le Gone","_id":"ELuwDdiQ49W3jLMx"}
+{"valeur":30,"date":{"$$date":1664971348472},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Virement bancaire - N26","_id":"ETZ6pK5SHzvQSPBU"}
+{"valeur":-5.57,"date":{"$$date":1665068580000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Duck Boy","_id":"FMHnVKpgUVRX97TV"}
+{"valeur":-11.89,"date":{"$$date":1629842400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Petite Dame","_id":"FSEBtNk3PftwN12j"}
+{"valeur":18,"date":{"$$date":1685954247596},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"espéces","_id":"FhKQfCphkIHVbVFm"}
+{"valeur":20,"date":{"$$date":1682500440000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"Virement bancaire (CMSO)","_id":"FwI12bSte9eoXIbb"}
 {"valeur":4.375,"date":{"$$date":1601559240000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"rachat quote-part machine GROSSFRITE","_id":"HJN0k75VzkpBuXkg"}
+{"valeur":40,"date":{"$$date":1639669057152},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"","_id":"HNyDunUdRlLDY4uc"}
+{"valeur":-50,"date":{"$$date":1635260605702},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement","_id":"IEWMQL9VxcoikBbt"}
+{"valeur":50,"date":{"$$date":1634680800000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"virement du 20/10/2021","_id":"IPR90RCbYi6LQThJ"}
+{"valeur":-60,"date":{"$$date":1630274400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Tortue Géniale","_id":"If2NAFsP2b3RAe2i"}
+{"valeur":60,"date":{"$$date":1620728340000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"virement du 11/05/2021","_id":"Iq50zuSFomIWK9bx"}
+{"valeur":-35,"date":{"$$date":1656317340000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"sur N26","_id":"J89uYbj46vH0GswW"}
+{"valeur":-60,"date":{"$$date":1611529200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Tortue Geniale","_id":"JZnC6zwAzfkAjmDg"}
 {"valeur":40,"date":{"$$date":1594041360000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"virement du 06/07/2020","_id":"JfI8dUmWdVkuaokD"}
+{"valeur":-15,"date":{"$$date":1635112800000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Virement GrossFrite","_id":"JwQzS6E7nyKXkf1A"}
+{"valeur":40,"date":{"$$date":1615935600000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"erreur de saisie","_id":"KZiGmRpOqJ5bp4BN"}
+{"valeur":-40,"date":{"$$date":1681284381499},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"CORRECTION","_id":"Kw5EyK7dF2cLx2fC"}
+{"valeur":-1.4472286083448438,"date":{"$$date":1631095936166},"torrefacteur":"8bquHm8h0s2XWLJ4","commentaire":"Clôture du compte","_id":"MjRWDZpwckmy0K0C"}
 {"valeur":50,"date":{"$$date":1602509760000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"virement du 12/10/2020","_id":"Mso5rYwDmv3nr2YD"}
+{"valeur":15,"date":{"$$date":1635151080000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"virement du 25/10/2021","_id":"Muoij6BkXaCjiZQS"}
+{"valeur":-60,"date":{"$$date":1620684000000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Tortue Geniale","_id":"NGyDJzAucYFHoOo0"}
+{"valeur":5.57,"date":{"$$date":1665068520000},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Virement vers N26","_id":"NTEoLHlb6DT2YtSw"}
+{"valeur":-10,"date":{"$$date":1671182820000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Duck Boy","_id":"NxEpHucgw5L8DGrv"}
 {"valeur":13.33,"date":{"$$date":1593609120000},"torrefacteur":"Vy8PXJyzX6n75tWK","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"OF8uHEikrtca7cBi"}
+{"valeur":25,"date":{"$$date":1658415456990},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"PayPal","_id":"OSNmw1BYMQXcPFlL"}
+{"valeur":10,"date":{"$$date":1686121878569},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Virement bancaire (N26)","_id":"OaDABc7jn9OXB3xc"}
+{"valeur":30,"date":{"$$date":1630491000000},"torrefacteur":"8bquHm8h0s2XWLJ4","commentaire":"virement du 01/09/2021","_id":"P3g8kHUG9AhfBvj3"}
 {"valeur":60,"date":{"$$date":1583158380000},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"virement du 02/03/2020","_id":"PRsB4zEWlkeQ6MBS"}
+{"valeur":-40,"date":{"$$date":1664891173005},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - B2ODA","_id":"PaWjrwoAwn19u9xL"}
+{"valeur":20,"date":{"$$date":1686122120362},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Virement bancaire (N26)","_id":"PoJlv2ucwWpyWM1a"}
+{"valeur":60,"date":{"$$date":1620728340000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"erreur de saisie","_id":"QZ9JaAObskDf4A0j"}
+{"valeur":-20,"date":{"$$date":1682500920000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement MACT3M","_id":"QsTXerpK6IbjK8jV"}
 {"valeur":10,"date":{"$$date":1583504040000},"torrefacteur":"DSmOY30KDcw8e5ja","commentaire":"virement du 06/03/2020","_id":"QzBq6hulCq4hIAcW"}
+{"valeur":50,"date":{"$$date":1670337000000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"Virement CMSO vers N26","_id":"SOEzmyZthJkM6Joq"}
 {"valeur":4.375,"date":{"$$date":1601559300000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"rachat quote-part machine GROSSFRITE","_id":"SRTOIGuVkS0aLAgi"}
 {"valeur":4.375,"date":{"$$date":1601558940000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"rachat quote-part machine GROSSFRITE","_id":"TiF5WiRgDoWUWTSS"}
+{"valeur":15.21,"date":{"$$date":1627887280048},"torrefacteur":"DSmOY30KDcw8e5ja","commentaire":"virement du 02/08/2021","_id":"U0auWnSFaKoIvVhU"}
+{"valeur":-20,"date":{"$$date":1607554800000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement GrosseFrite","_id":"UIiPGKZCjB6NP2vW"}
+{"valeur":-60,"date":{"$$date":1594072800000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Tortue Geniale","_id":"ULoCGoep0MsYY833"}
 {"valeur":4.375,"date":{"$$date":1601559300000},"torrefacteur":"DSmOY30KDcw8e5ja","commentaire":"rachat quote-part machine GROSSFRITE","_id":"UfWj6JzqQEttfBQD"}
+{"valeur":-25.7,"date":{"$$date":1631260983481},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"","_id":"V36D4oRHQPMBfKrB"}
 {"valeur":-4.66,"date":{"$$date":1603723357597},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"achat cartouche filtrante","_id":"V5QDh9R70wJD07RS"}
+{"valeur":10,"date":{"$$date":1671172020000},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Correction ","_id":"VUAfe572VbmhQBBR"}
 {"valeur":4.375,"date":{"$$date":1601558880000},"torrefacteur":"8bquHm8h0s2XWLJ4","commentaire":"rachat quote-part machine GROSSFRITE","_id":"VlPD5pcIQKSk2UF9"}
+{"valeur":-50,"date":{"$$date":1685949960000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement B2oda","_id":"VmN5p5tV9fq7y0pr"}
 {"valeur":-40,"date":{"$$date":1593609300000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"WV0elwfv6GKOwwzA"}
+{"valeur":-20,"date":{"$$date":1682500380000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"Virement bancaire (CMSO)","_id":"WVRT4S3EUVkClVT0"}
 {"valeur":41.99,"date":{"$$date":1603721967096},"torrefacteur":"Vy8PXJyzX6n75tWK","commentaire":"avance achat filtre","_id":"WVgIOrpK2qb0Hpgb"}
+{"valeur":30,"date":{"$$date":1678693556917},"torrefacteur":"ib6b6WqdFbWrVOfC","commentaire":"Virement PayPal","_id":"XlTzF5JibtYJn6A0"}
+{"valeur":26.81783063713364,"date":{"$$date":1648732433791},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"Clôture du compte","_id":"YAuyMNZkCP0cyg2X"}
+{"valeur":20,"date":{"$$date":1674808740000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Virement bancaire - N26","_id":"YFGrcoHh32TnBoAz"}
+{"valeur":-50,"date":{"$$date":1632348000000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement virement B2ODA","_id":"YiB4jTDBaeunNBTW"}
+{"valeur":100,"date":{"$$date":1596033000000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"erreur de saisie","_id":"Z7bLL658mZmsLdc6"}
+{"valeur":-20,"date":{"$$date":1686122159859},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement Mr Green","_id":"ZUwBZlnoC79D8jcz"}
 {"valeur":-4.66,"date":{"$$date":1603723422914},"torrefacteur":"DSmOY30KDcw8e5ja","commentaire":"achat cartouche filtrante","_id":"ZaDGLAmGm3OJOtkp"}
+{"valeur":11.89,"date":{"$$date":1629880860000},"torrefacteur":"33deNDrPRCu6k4N1","commentaire":"virement du 25/08/2021","_id":"a4div8wia6stRs4W"}
+{"valeur":-30,"date":{"$$date":1630447200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"","_id":"aDzm6DUMo57IHeAe"}
 {"valeur":4.375,"date":{"$$date":1601558880000},"torrefacteur":"Vy8PXJyzX6n75tWK","commentaire":"rachat quote-part machine GROSSFRITE","_id":"aNqDY3j5boS7YdXN"}
+{"valeur":10,"date":{"$$date":1686121799374},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"ANNULATION - Erreur saisie","_id":"aWIcsBarRUUnWKLY"}
+{"valeur":20,"date":{"$$date":1664867160000},"torrefacteur":"ib6b6WqdFbWrVOfC","commentaire":"Virement PayPal","_id":"aj6qwNWwxzpJVwaV"}
+{"valeur":8.71,"date":{"$$date":1671028440000},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Virement vers N26","_id":"b9pAAf6m1blVqY3q"}
+{"valeur":11.14,"date":{"$$date":1640165160000},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"virement paypal du 22/12/2021","_id":"bEaK2b9rMTlvPbTw"}
+{"valeur":60,"date":{"$$date":1611566280000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"","_id":"bKfpfGI5HhJUF4SO"}
+{"valeur":0.86,"date":{"$$date":1656317880000},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Versement sur N26","_id":"bdNj1iynbLw7EKrh"}
+{"valeur":-30,"date":{"$$date":1630447200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement suite virement de Le GONE","_id":"bwEPy76mjBiPnnsX"}
+{"valeur":-10,"date":{"$$date":1654607240250},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"test versement/remboursement","_id":"c1rvNtrSkiRIJzAj"}
+{"valeur":-15.21,"date":{"$$date":1627855200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement The Witness","_id":"c4dkB4bZ5sh1oFBB"}
 {"valeur":4.375,"date":{"$$date":1601559240000},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"rachat quote-part machine GROSSFRITE","_id":"c7qo5clDASTKKLF2"}
+{"valeur":40,"date":{"$$date":1664891082136},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"Virement CMSO vers N26","_id":"cjXjU6vJ1Vs4ikVi"}
 {"valeur":13.33,"date":{"$$date":1593609360000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"e6MT9basDDa9QO2v"}
+{"valeur":-30,"date":{"$$date":1617141600000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement GrosseFrite","_id":"eFajJTxuwVEXqzCc"}
+{"valeur":-30,"date":{"$$date":1630447200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Le gone","_id":"ewGW8HdkazVov5yW"}
+{"valeur":-10,"date":{"$$date":1595973600000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"virement B2ODA","_id":"fUxovdkVFyrT2ReP"}
+{"valeur":-10,"date":{"$$date":1671171960000},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Virement sur N26","_id":"gWbYHAJjpnxwtHxV"}
+{"valeur":-0.86,"date":{"$$date":1660895390634},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - DUCK BOY","_id":"gZup69vUC495znQa"}
 {"valeur":30,"date":{"$$date":1592311740000},"torrefacteur":"Vy8PXJyzX6n75tWK","commentaire":"virement du 16/06/2020","_id":"gyUk8FVmVOxArOgd"}
+{"valeur":35,"date":{"$$date":1616660910305},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"","_id":"hBmoXKJ8HoPhbI6r"}
+{"valeur":20,"date":{"$$date":1608110340000},"torrefacteur":"DSmOY30KDcw8e5ja","commentaire":"","_id":"hRpcZNqpBV6V5QEU"}
+{"valeur":-40,"date":{"$$date":1639669006495},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"","_id":"hiDMexHHoolssRde"}
+{"valeur":-90,"date":{"$$date":1670941980000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Tortue Géniale","_id":"hzONJ5uKr2rxKgVQ"}
+{"valeur":-2.1,"date":{"$$date":1634288424582},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"achat brosse et tube de graisse","_id":"i6yBmWPSwFxYzljF"}
+{"valeur":38,"date":{"$$date":1639669027132},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"remboursement boule star wars","_id":"iBXnCUmt9iHSb0mO"}
+{"valeur":50,"date":{"$$date":1685950020000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"ERREUR DE SAISIE","_id":"iDNuaxVnZEmiHTE6"}
+{"valeur":-50,"date":{"$$date":1639954800000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Petite Dame","_id":"iW5jDcomWMEMI61A"}
 {"valeur":13.33,"date":{"$$date":1593609180000},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"icC96H0h6eOUliQX"}
+{"valeur":-50,"date":{"$$date":1602453600000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement GrosseFrite","_id":"j0QaCdoLNkQKHLCT"}
+{"valeur":-10,"date":{"$$date":1686122067646},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement Duck-Boy","_id":"jhaDIMi9kETOdGVX"}
+{"valeur":-20,"date":{"$$date":1608073200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement The witness","_id":"jv1VNgCcdWeo1YL7"}
+{"valeur":-20,"date":{"$$date":1674808800000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Mr Green","_id":"khszndKsNlrLjmSD"}
+{"valeur":-20,"date":{"$$date":1640041200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement GrossFrite","_id":"kkQRrqydV1MnXbjq"}
+{"valeur":25,"date":{"$$date":1643710821095},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"virement du 01/02/2022","_id":"li562R5jDbUZXn3k"}
+{"valeur":-100,"date":{"$$date":1613121597137},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement café","_id":"lrb0Au0QKtjTo5Gb"}
 {"valeur":-4.66,"date":{"$$date":1603723345866},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"achat cartouche filtrante","_id":"lxnEzlNGakbKz4X3"}
+{"valeur":-60,"date":{"$$date":1643065200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Tortue Géniale","_id":"mFScfowXI7sO3Cuh"}
+{"valeur":-36,"date":{"$$date":1639954800000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Petite Dame","_id":"mb2N9or4LvQhIUdn"}
+{"valeur":-40,"date":{"$$date":1615968060000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"","_id":"nGocgTW0eK7pHOss"}
+{"valeur":-10,"date":{"$$date":1583449200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement The witness","_id":"o1E2TnjxsnXcabZk"}
 {"valeur":-4.66,"date":{"$$date":1603723335316},"torrefacteur":"QCNmQ7tVItBtsEqw","commentaire":"achat cartouche filtrante","_id":"o9IaMspqj8eYtlYN"}
+{"valeur":1.26,"date":{"$$date":1673428878318},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Correction ERREUR consommation de café","_id":"oAEkIFTIxeakFh5Q"}
+{"valeur":-30,"date":{"$$date":1592258400000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Peepoodoo","_id":"ogN4pYKYr9OgASev"}
+{"valeur":-35,"date":{"$$date":1616675093171},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"","_id":"oo9rgPWw7axSsGlJ"}
+{"valeur":-38,"date":{"$$date":1639669064593},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement boule star wars","_id":"os4Gh7fDjrk0831R"}
+{"valeur":50,"date":{"$$date":1632407837513},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"virement du 23/09/2021","_id":"osrcqK79aNsJbM4S"}
+{"valeur":50,"date":{"$$date":1639992960000},"torrefacteur":"33deNDrPRCu6k4N1","commentaire":"virement du 20/12/2021","_id":"oudCap5ynewclFMg"}
+{"valeur":-50,"date":{"$$date":1664868060000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - MACT3M","_id":"pOUjsCxOxw1dBcru"}
+{"valeur":36.01,"date":{"$$date":1639992900000},"torrefacteur":"33deNDrPRCu6k4N1","commentaire":"virement du 20/12/2021","_id":"qvK2lQcXVDS4lcGL"}
+{"valeur":-20,"date":{"$$date":1664954581371},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Dobby","_id":"qx6OgDUcNqTG5euX"}
 {"valeur":100,"date":{"$$date":1599657600000},"torrefacteur":"8bquHm8h0s2XWLJ4","commentaire":"virement du 09/09/2020","_id":"rKAjhS2AyoHF2XVF"}
 {"valeur":60,"date":{"$$date":1594127820000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"virement du 07/07/2020","_id":"rLDhR7uFDufutnlD"}
 {"valeur":-4.66,"date":{"$$date":1603723313502},"torrefacteur":"8bquHm8h0s2XWLJ4","commentaire":"achat cartouche filtrante","_id":"rPzWKDHyZSffh4Lg"}
 {"valeur":-4.66,"date":{"$$date":1603723385683},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"achat cartouche filtrante","_id":"rSbo3LolTmq2kOKa"}
 {"valeur":-4.66,"date":{"$$date":1603722988278},"torrefacteur":"Vy8PXJyzX6n75tWK","commentaire":"achat cartouche filtrante","_id":"rVvP7tCYxvj61ogt"}
+{"valeur":20,"date":{"$$date":1640079300000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"virement du 21/12/2021","_id":"rXKmWwuZWcXTM3BB"}
+{"valeur":0.86,"date":{"$$date":1660895005069},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Rectification de remboursement pour acheteur de café","_id":"rY30BKQGT8btOx9m"}
+{"valeur":40,"date":{"$$date":1681284293947},"torrefacteur":"Tu5sWrSG7JWNNDZD","commentaire":"Virement vers PAYLIB","_id":"rtefbSnmCh9YA7w3"}
+{"valeur":-0.86,"date":{"$$date":1660894934866},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Rectification destinataire","_id":"ryiOpcZ5K31qj6A7"}
+{"valeur":-37.47287366811295,"date":{"$$date":1627635513600},"torrefacteur":"Vy8PXJyzX6n75tWK","commentaire":"Clôture du compte","_id":"sZFyLUJEGlQnPQgO"}
 {"valeur":-40,"date":{"$$date":1593609240000},"torrefacteur":"8bquHm8h0s2XWLJ4","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"saxOeuX0HRdvjzOj"}
+{"valeur":35,"date":{"$$date":1660896204195},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Rectification virement pour Acheteur de café","_id":"sopAEtRqDoOorGW6"}
+{"valeur":10,"date":{"$$date":1621893600000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"virement du 25/05/2021","_id":"suTbB9cO3Hp6JkZn"}
+{"valeur":-50,"date":{"$$date":1685949600000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement B2oda","_id":"sxrQUMUtSdNAUeLl"}
 {"valeur":-100,"date":{"$$date":1596013980000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement achat café","_id":"uKeCcAGoWWTJcxbC"}
 {"valeur":-4.66,"date":{"$$date":1603723398199},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"achat cartouche filtrante","_id":"uL6DMflIe1LAXiVc"}
+{"valeur":35,"date":{"$$date":1656317460000},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"Virement sur N26","_id":"udT03DzA6m93j9Zl"}
+{"valeur":10,"date":{"$$date":1671172080000},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"Virement sur N26","_id":"v9qqqYzE0ljG928n"}
 {"valeur":60,"date":{"$$date":1599830520000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"virement du 11/09/2020","_id":"vP4Itr0acFhEADvX"}
+{"valeur":-60,"date":{"$$date":1599775200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Tortue Geniale","_id":"vXESblVAW4JIDEGG"}
+{"valeur":-11.14,"date":{"$$date":1640127600000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Dobby","_id":"vjVZwc4DgVwGiVKu"}
+{"valeur":-30,"date":{"$$date":1627855200000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement GROSSFRITE","_id":"vqcAzDYNTZPUufZR"}
 {"valeur":13.33,"date":{"$$date":1593609360000},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"wFiWvOApBsaRjDMc"}
+{"valeur":-10,"date":{"$$date":1686121708763},"torrefacteur":"3W2ubNE1Lc6BMhvm","commentaire":"","_id":"wep27LqASYAtodVb"}
+{"valeur":-20,"date":{"$$date":1664867220000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - C'Hipster","_id":"wf7ng6q7zfUi2QeR"}
+{"valeur":-60,"date":{"$$date":1649322360000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"remboursement virement Tortue Géniale du 07/04/2022","_id":"xFXgvQ2ZFiNqfB88"}
+{"valeur":20,"date":{"$$date":1682500440000},"torrefacteur":"wjt1sH4K1d9L1WTq","commentaire":"Correction erreur 20€","_id":"xLHgOH3eaFP65mya"}
+{"valeur":-35,"date":{"$$date":1660896504396},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Rectification virement du 27/06/2022 - MR GREEN ","_id":"xMUvjpQVhDaufny0"}
 {"valeur":13.33,"date":{"$$date":1593609300000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"rachat quote-part machine le gone et tortue genial","_id":"xvlXRPOyJ6Pxe5Kj"}
+{"valeur":-25,"date":{"$$date":1643670000000},"torrefacteur":"jnN5cDdMBN7lYh6o","commentaire":"Remboursement Dobby","_id":"xyBvRxpvT4q8jIYi"}
 {"valeur":-4.66,"date":{"$$date":1603723326284},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"achat cartouche filtrante","_id":"y98XIBoS4mNdQQhf"}
+{"valeur":25.7,"date":{"$$date":1631138400000},"torrefacteur":"33deNDrPRCu6k4N1","commentaire":"virement du 09/09/2021","_id":"yI11M3o9rsnj7E6D"}
+{"valeur":-1.26,"date":{"$$date":1673428941838},"torrefacteur":"xDbXey2eG4fiLJN2","commentaire":"Correction ERREUR consommation café","_id":"yaoorWgUcfI1kiOu"}
+{"valeur":30,"date":{"$$date":1617195377095},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"virement du 31/03/2021","_id":"yltn73rz6fEYwxit"}
+{"valeur":60,"date":{"$$date":1630274400000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"Virement du 30/08","_id":"ynkQLpIsEM5m65Ux"}
+{"valeur":-30,"date":{"$$date":1664971389116},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Mr Green","_id":"yt7Y5qf1IyXIaRDe"}
+{"valeur":-2.1,"date":{"$$date":1634288439451},"torrefacteur":"GDDoWIZVHTs9UsGL","commentaire":"achat brosse et tube de graisse","_id":"z5WnIsz4TXqLBGhW"}
+{"valeur":-8.71,"date":{"$$date":1671028500000},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Duck-Boy","_id":"z7znNgKpWfhg5RXT"}
+{"valeur":-40,"date":{"$$date":1681284400283},"torrefacteur":"Y0gUzOwWHgnXxPpJ","commentaire":"Remboursement - Dobby","_id":"zLoyhoT9MZVaFCX5"}
+{"valeur":60,"date":{"$$date":1649322240000},"torrefacteur":"JraVKHRFNAM9WlCP","commentaire":"virement du 07/04/2022","_id":"zbqGQdwHSb5H87ZP"}
