@@ -1,4 +1,4 @@
 node_modules/
 views/
-development.json
+config/production.json
 production.json
