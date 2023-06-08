@@ -1,3 +1,7 @@
+if (process.env.NODE_ENV !== 'development') {
+  require('dotenv').config();
+}
+
 const http = require('http');
 const app = require('./app');
 const os = require('os');
@@ -13,7 +17,7 @@ const normalizePort = val => {
   }
   return false;
 };
-const port = normalizePort(process.env.PORT || 3000);
+const port = normalizePort(process.env.PORT || 5000);
 app.set('port', port);
 
 const errorHandler = error => {
