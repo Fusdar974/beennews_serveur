@@ -154,10 +154,20 @@ router.delete('/:id', (req, res) => {
  * Recheche des pots pour l'affichage dans le datatable.
  */
 router.post('/', (req, res) => {
-  const page = parseInt(req.body.page) || 1;
-  const nombre = req.body.nombre || 10;
+  let page = parseInt(req.body.page) || 1;
+  let nombre = req.body.nombre || 10;
 
   bdd.pots.count({}, function (err, count) {
+    const pageMax = Math.ceil(count / nombre);
+    if (page > pageMax) {
+      page = pageMax;
+    }
+
+    try {
+      nombre = parseInt(nombre);
+    } catch(err) {
+      nombre = count;
+    }
     bdd.pots.find({}).sort({ date: -1 }).skip((page - 1) * nombre).limit(nombre).exec(function (err, docs) {
       res.json({ page, nombre, total: count, documents: docs });
     });
