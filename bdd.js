@@ -3,7 +3,7 @@
 const Datastore = require('nedb');
 const DatastoreX = require('nedb-x');
 
-const path = (process.env.NODE_ENV === 'development') ? './bddjwt' : '/bddjwt';
+const path = (process.env.NODE_ENV === 'development') ? './bddjwt' : './bddjwt_prod';
 
 const db = {};
 db.utilisateur = new Datastore({ filename: `${path}/utilisateur`, autoload: true });
