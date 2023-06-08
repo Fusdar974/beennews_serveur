@@ -13,7 +13,9 @@ router.post('/', (req, res) => {
     const typeproduitsTab = [];
     typeproduits.forEach(item => typeproduitsTab[item._id] = item);
 
-    bdd.produit.find({ type: { $in: typeproduits.map(item => item._id) }, archive: false  }, function (err, docs) {
+    const type =  { $in: typeproduits.map(item => item._id) }
+
+    bdd.produit.find({ type, archive: false  }).sort({nom: 1}).exec(function (err, docs){
       res.json({
         produits: docs.map(item => {
           item.type = typeproduitsTab[item.type];
