@@ -26,7 +26,7 @@
 {"nom":"Bouteille Multifruits","prix":0,"prixEuros":2,"type":"2db7W7cow5uiP3SO","nombre":0,"image":"image/NoLogo.png","effacable":false,"archive":true,"_id":"Bx2fJ7X2nYm9sdvB"}
 {"nom":"Magnum Double chocolat","prix":4,"prixEuros":0,"type":"PPCK4Tob6riCWPJW","nombre":0,"image":"image/NoLogo.png","effacable":false,"archive":true,"_id":"CAtGhWRTEZpR3vQ4"}
 {"nom":"M&Ms Bleu","prix":2,"prixEuros":0,"credit":0,"effacable":false,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/mmsbleu.png","_id":"Cgwm6BK0AAjyRumS","archive":true}
-{"nom":"Apéritifs Cacahuétes","prix":0,"prixEuros":1,"type":"O46oZtngnR951h3J","nombre":979,"image":"image/2022_04_13_08_11_09_826","effacable":false,"archive":false,"_id":"D2kV1gchFqfrWqYI"}
+{"nom":"Apéritifs Cacahuétes","prix":0,"prixEuros":1,"type":"wGnKtbx4wM6zz4ng","nombre":979,"image":"image/cacahuete.png","effacable":false,"archive":false,"_id":"D2kV1gchFqfrWqYI"}
 {"nom":"Jus de Fruit Goyave","prix":3,"prixEuros":0,"type":"2db7W7cow5uiP3SO","nombre":0,"image":"image/2020_09_02_14_37_17_629","effacable":false,"archive":true,"_id":"DNJVMtvuqHAD3u3x"}
 {"nom":"cidre","prix":2,"prixEuros":0,"type":"vumZUrmj0jCzfU9a","nombre":179,"image":"image/NoLogo.png","effacable":false,"archive":true,"_id":"DbOjMGA5aokdNdpe"}
 {"nom":"Pepsi","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/pepsi.png","_id":"E4O4yYm5tvL72LKK","archive":true}
@@ -48,7 +48,7 @@
 {"nom":"Bonbon","prix":2,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"c7BDSTHZ2NKjbYLC","image":"image/bonbon.png","_id":"HTnXlwwR0DpG15d9","archive":true}
 {"nom":"Pulco Citronnade","prix":4,"prixEuros":0,"type":"2db7W7cow5uiP3SO","nombre":0,"image":"image/2020_09_02_14_41_53_141","effacable":false,"archive":true,"_id":"HaXhDMuoMWu3VHz5"}
 {"nom":"Bière St Patrick","prix":4,"prixEuros":0,"type":"vumZUrmj0jCzfU9a","nombre":65,"image":"image/NoLogo.png","effacable":false,"archive":false,"_id":"HaZsEiTXkzUSSTO7"}
-{"nom":"Apéritifs gâteaux","prix":0,"prixEuros":5,"credit":0,"effacable":false,"nombre":25,"type":"O46oZtngnR951h3J","image":"image/chips_aperitif.png","_id":"HvydLZb52VofzS13","archive":false}
+{"nom":"Apéritifs gâteaux","prix":0,"prixEuros":5,"credit":0,"effacable":false,"nombre":25,"type":"wGnKtbx4wM6zz4ng","image":"image/chips_aperitif.png","_id":"HvydLZb52VofzS13","archive":false}
 {"nom":"Arizona Green Tea","prix":6,"prixEuros":0,"credit":0,"effacable":false,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/arizonaGreenTea.png","_id":"I08NaYvDlE5cBqN2","archive":true}
 {"nom":"Cone chocolat","prix":4,"prixEuros":0,"credit":0,"effacable":true,"nombre":0,"type":"PPCK4Tob6riCWPJW","image":"image/coneChocolat.png","_id":"ITMRzGtnh7hbVV3W","archive":true}
 {"nom":"Jus de fruit fraise/framboise","prix":3,"prixEuros":0,"credit":0,"effacable":false,"nombre":0,"type":"2db7W7cow5uiP3SO","image":"image/2020_09_02_14_39_18_441","_id":"ITtJHqSX3g7azBVF","archive":true}

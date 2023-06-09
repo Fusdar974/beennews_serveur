@@ -12,9 +12,7 @@ module.exports = [
     { _id: 7, icone: "mdi mdi-flower", nom: "Menu stock", to: "/produits", libelle: "Stock", auth: true },
     { _id: 8, icone: "mdi mdi-cog", nom: "Menu type produits", to: "/typeproduits", libelle: "Paramètres", auth: true },
 
-    { _id: 9, icone: "mdi mdi-chat-processing", nom: "Menu Chat", to: "/chat", libelle: "Chat", auth: true },
-    { _id: 10, icone: "mdi mdi-server", nom: "Menu Info Serveur", to: "/cpu", libelle: "Info serveur", auth: true },
-    { _id: 11, icone: "mdi mdi-coffee", nom: "Menu Café", to: "/cafe", libelle: "Café", auth: true },
-    { _id: 12, icone: "mdi mdi-coffee", nom: "Torréfacteur Admin", to: "/cafe", libelle: "Café", auth: true },
-    { _id: 13, icone: "mdi mdi-bitcoin", nom: "Rechargement BN", to: "/rechargementbn", libelle: "Rechargement BN", auth: true },
+    { _id: 9, icone: "mdi mdi-coffee", nom: "Menu Café", to: "/cafe", libelle: "Café", auth: true },
+    { _id: 10, icone: "mdi mdi-coffee", nom: "Torréfacteur Admin", to: "/cafe", libelle: "Café", auth: true },
+    { _id: 11, icone: "mdi mdi-bitcoin", nom: "Rechargement BN", to: "/rechargementbn", libelle: "Rechargement BN", auth: true },
 ]
