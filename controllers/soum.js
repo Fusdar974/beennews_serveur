@@ -69,11 +69,10 @@ router.post('/panier', (req, res) => {
         rendreMonnaie
       }, (err, historique) => {
 
-        const articles = panier.articles.map(item => {
-          item.historique = historique._id;
-          return item;
-        })
-        bdd.historiquedetail.insert(articles, (err, histoDetail) => { });
+        const articles = panier.articles.map(item => ({...item, historique: historique._id, produit: item._id, _id: undefined})) // _id: id de l'historique détail / produit: id du produit
+        bdd.historiquedetail.insert(articles, (err, histoDetail) => {
+          console.log('error',err)
+        });
         bdd.utilisateur.update({ _id: client._id }, { $set: { compte: nouveauSoldeCompte, supprimable: false } }, {}, (err, result) => {
           res.json({ data: 'ok' });
         });
