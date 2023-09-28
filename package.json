@@ -1,7 +1,8 @@
 {
   "scripts": {
     "start": "set NODE_ENV=default&& node server.js",
-    "start-dev": "set NODE_ENV=development&& node server.js"
+    "start-dev": "set NODE_ENV=development&& node server.js",
+    "start:linux": "NODE_ENV=default node server.js"
   },
   "dependencies": {
     "body-parser": "1.19.0",
