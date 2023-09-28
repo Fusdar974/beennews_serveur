@@ -17,6 +17,7 @@ db.parametre = new Datastore({ filename: `${path}/parametre`, autoload: true });
 db.cafe = new DatastoreX({ filename: `${path}/cafe`, autoload: true });
 db.cafeconso = new DatastoreX({ filename: `${path}/cafeconso`, autoload: true });
 db.cafeversement = new DatastoreX({ filename: `${path}/cafeversement`, autoload: true });
+db.frigo = new Datastore({ filename: `${path}/frigo`, autoload: true });
 
 
 module.exports = db;
